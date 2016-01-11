@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* Hello world 
- * by Your Name Here.
+ * by Kirthi Narayanan.
  */
 
 int main(int argc, char *argv[])
